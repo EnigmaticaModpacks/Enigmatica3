@@ -2,8 +2,6 @@
 
 This is the official repository and issue-tracker for the modpack Enigmatica 3, for Minecraft 1.13.2
 
-[![Curse Forge](http://cf.way2muchnoise.eu/full_enigmatica3_downloads.svg)](https://minecraft.curseforge.com/projects/enigmatica3) NYI
-
 <h2>Links</h2>
 
 * [Curseforge](https://minecraft.curseforge.com/projects/enigmatica3) NYI
